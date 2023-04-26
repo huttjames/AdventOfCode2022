@@ -1,0 +1,1 @@
+These are my exercises for the 2022 Advent of Code
